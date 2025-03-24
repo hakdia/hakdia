@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hakdia
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on something if I understand this place 
+- 📫 How to reach me send a pigeon
+- ⚡ Fun fact: I don't know anything and hate my job
