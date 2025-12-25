@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diana
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on something if I understand this place 
 - 📫 How to reach me send a pigeon
 - ⚡ Fun fact: I don't know anything and I hate my job
